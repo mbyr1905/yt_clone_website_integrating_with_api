@@ -68,6 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+
+This is a youtube clone which is just made for educational purpose
+
+In this i used rapid api to fetch data and the client used to fecth data is axios.
+
+Hosted it in netlify
+
+This is the link where you can find it to ckeck out --> https://rad-mermaid-863dac.netlify.app/video/TdrL3QxjyVw
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 
